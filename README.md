@@ -1,5 +1,5 @@
 
-# This is a test repository
+# This is the homework 1 repository
 
 This repository was created to start learning Github
 
