@@ -1,2 +1,22 @@
-# tarea_1
-This is the homework 1
+
+# This is a test repository
+
+This repository was created to start learning Github
+
+
+
+
+## Content
+
+- index.html
+- styles.css
+- .gitignore
+- GPL-2.0 License
+- Readme
+
+
+
+## Authors
+
+- [@isaac-evs](https://www.github.com/isaac-evs)
+- [@edunav04](https://www.github.com/edunav04)
