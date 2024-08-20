@@ -11,7 +11,7 @@ This repository was created to start learning Github
 - index.html
 - styles.css
 - .gitignore
-- GPL-2.0 License
+- GPL-3.0 License
 - Readme
 
 
