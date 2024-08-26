@@ -11,7 +11,7 @@ https://github.com/isaac-evs/tarea_1.git
 ## Content
 
 - index.html
-- styles.css
+- style.css
 - .gitignore
 - GPL-3.0 License
 - Readme
