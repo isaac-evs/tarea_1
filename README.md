@@ -20,5 +20,5 @@ https://github.com/isaac-evs/tarea_1.git
 
 ## Authors
 
-- [@isaac-evs](https://www.github.com/isaac-evs)
-- [@edunav04](https://www.github.com/edunav04)
+- [@isaac-evs](https://www.github.com/isaac-evs) - Isaac Ernesto Vazquez Sandoval
+- [@edunav04](https://www.github.com/edunav04) - Eduardo Navarro Martinez
